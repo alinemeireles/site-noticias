@@ -1,2 +1,2 @@
 # site-noticias
-Curso prova A1
+ https://alinemeireles.github.io/site-noticias/
